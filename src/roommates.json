@@ -1,0 +1,74 @@
+{
+  "roommates": [
+    {
+      "id": "c3bd5617-e7cd-4d0d-85ce-5b45722b2dd9",
+      "nombre": "Afet Topaloğlu",
+      "email": "afet.topaloglu@example.com",
+      "debe": 0,
+      "recibe": 1500
+    },
+    {
+      "id": "085f6179-4b19-401e-9a9d-e6cf9ed489fe",
+      "nombre": "Don Morris",
+      "email": "don.morris@example.com",
+      "debe": 0,
+      "recibe": 3438777
+    },
+    {
+      "id": "88503fff-9dce-40f9-8356-7baf665d6664",
+      "nombre": "Nicolay Moss",
+      "email": "nicolay.moss@example.com",
+      "debe": 0,
+      "recibe": 13500
+    },
+    {
+      "id": "07d28d2a-bfac-453d-9698-3d14e4fca153",
+      "nombre": "Calvin Alvarez",
+      "email": "calvin.alvarez@example.com",
+      "debe": 1500,
+      "recibe": 3000
+    },
+    {
+      "id": "91a5cabe-905d-4094-af1e-3c2729d99238",
+      "nombre": "Jack Singh",
+      "email": "jack.singh@example.com",
+      "debe": 9000,
+      "recibe": 0
+    },
+    {
+      "id": "c4c200b5-886b-4663-88da-c111ef3fc4a0",
+      "nombre": "Jacob Kelley",
+      "email": "jacob.kelley@example.com",
+      "debe": 6000,
+      "recibe": 7500
+    },
+    {
+      "id": "5cc6521a-2659-439d-a3e4-3527afce3251",
+      "nombre": "Willy Schmitt",
+      "email": "willy.schmitt@example.com",
+      "debe": 0,
+      "recibe": 12000
+    },
+    {
+      "id": "3d89957f-5764-4049-b45d-3915ac5764a4",
+      "nombre": "Marina Aarnes",
+      "email": "marina.aarnes@example.com",
+      "debe": 16846,
+      "recibe": 25846
+    },
+    {
+      "id": "d67b05f2-10c8-4f53-9406-090270f5bc30",
+      "nombre": "Rikus Duijf",
+      "email": "rikus.duijf@example.com",
+      "debe": 4500,
+      "recibe": 4500
+    },
+    {
+      "id": "f47cb1b4-3005-41be-98fa-ead6be9945a8",
+      "nombre": "Marianne Jean-Baptiste",
+      "email": "marianne.jean-baptiste@example.com",
+      "debe": 12000,
+      "recibe": 123135213
+    }
+  ]
+}
